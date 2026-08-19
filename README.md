@@ -25,10 +25,10 @@ Bash
 python plot_final_scores.py --input-csv ppi_prediction_final_esm_new.csv --output-img pdi_final_s
 
 👩‍🔬 Authors
-PhD(c) Francisca Rodríguez Cabello; Doctoral Biomedical Sciences student; 
-Abigail Elisabeth Teitgen; Postdoctoral MSCA Researcher; 
-María Eugenia Ulzurrun de Asanza Vega; CSIC investigator; 
-Nuria Eugenia Campillo Martin; Group Leader Computational Intelligence for Drug Discovery in Biomedicine; 
+PhD(c) Francisca Rodríguez Cabello Doctoral Biomedical Sciences student Chile
+Abigail Elisabeth Teitgen Postdoctoral MSCA Researcher Spain
+María Eugenia Ulzurrun de Asanza Vega CSIC investigator Spain
+Nuria Eugenia Campillo Martin Group Leader Computational Intelligence for Drug Discovery in Biomedicine Spain
 
 
 📄 License
