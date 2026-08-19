@@ -21,9 +21,9 @@ python predict_2.py --clf-path ppi_esm_logreg_final_model.pkl --new-data Pdi_pep
 
 ## 👩‍🔬 Authors
 
-* **PhD(c) Francisca Rodríguez Cabello** - Doctoral Biomedical Sciences student, Chile
+* **PhD(c) Francisca Rodríguez Cabello** - Doctoral Biomedical Sciences student UTALCA, Chile
 * **Abigail Elisabeth Teitgen** - Postdoctoral MSCA Researcher, Spain
-* **María Eugenia Ulzurrun de Asanza Vega** - CSIC investigator, Spain
+* **María Eugenia Ulzurrun de Asanza Vega** - CSIC Researcher, Spain
 * **Nuria Eugenia Campillo Martin** - Group Leader Computational Intelligence for Drug Discovery in Biomedicine CSIC, Spain
 
 
