@@ -24,7 +24,7 @@ python predict_2.py --clf-path ppi_esm_logreg_final_model.pkl --new-data Pdi_pep
 * **PhD(c) Francisca Rodríguez Cabello** - Doctoral Biomedical Sciences student, Chile
 * **Abigail Elisabeth Teitgen** - Postdoctoral MSCA Researcher, Spain
 * **María Eugenia Ulzurrun de Asanza Vega** - CSIC investigator, Spain
-* **Nuria Eugenia Campillo Martin** - Group Leader Computational Intelligence for Drug Discovery in Biomedicine, Spain
+* **Nuria Eugenia Campillo Martin** - Group Leader Computational Intelligence for Drug Discovery in Biomedicine CSIC, Spain
 
 
 📄 License
