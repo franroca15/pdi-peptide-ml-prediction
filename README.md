@@ -7,7 +7,6 @@ This repository contains a machine learning pipeline designed to identify and pr
 * **`protein_peptide_contacts.csv`**: Original training dataset containing sequences and experimental contact data.
 * **`Pdi_peptides.csv`**: Target dataset containing the novel peptide sequences for PDI interaction prediction.
 * **`predict_2.py`**: Python script to execute predictions on new peptide sequences using the trained model.
-* **`plot_final_scores.py`**: Visualization script to generate an ordered bar chart of the final prediction scores.
 * **`prediccion_pdi_peptidos.ipynb`**: Interactive Google Colab notebook containing the complete pipeline (data cleaning, ESM embedding generation, model training, and cross-validation).
 
 ## 🚀 Usage
@@ -19,10 +18,6 @@ To run the prediction script locally, ensure you have the required dependencies 
 Bash
 python predict_2.py --clf-path ppi_esm_logreg_final_model.pkl --new-data Pdi_peptides.csv --out ppi_prediction_final_esm_new.csv
 
-To generate the visualization plot:
-
-Bash
-python plot_final_scores.py --input-csv ppi_prediction_final_esm_new.csv --output-img pdi_final_s
 
 ## 👩‍🔬 Authors
 
